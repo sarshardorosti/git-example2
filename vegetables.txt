@@ -1,4 +1,3 @@
 kale
 potato
 carrot
-tomato
